@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aa4740f4f5a9bbf4eb95cd6d4f43e117
+timeCreated: 1511038398
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alba Super
+  fontNames:
+  - Alba Super
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
